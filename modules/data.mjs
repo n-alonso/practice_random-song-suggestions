@@ -1,3 +1,5 @@
+// Lists of rock songs, metal songs, and rock-related quotes
+
 const data = {
     'rock_songs': [
         'Queen - Bohemian Rhapsody',
@@ -55,3 +57,4 @@ const data = {
     ]
 }
 
+export { data };
