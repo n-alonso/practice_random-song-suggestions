@@ -1,0 +1,22 @@
+{
+  "name": "rock_suggestions_app",
+  "version": "1.0.0",
+  "description": "Simple app that will suggest you random rock and metal songs, plus famous rock quotes",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n-alonso/1st-backend-project.git"
+  },
+  "author": "Nicolas Alonso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n-alonso/1st-backend-project/issues"
+  },
+  "homepage": "https://github.com/n-alonso/1st-backend-project#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
